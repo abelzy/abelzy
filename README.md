@@ -22,10 +22,13 @@ Here are some ideas to get you started:
 class About(Me):
 {
     def __init__(self):
+        {
+            MY_DREAM = "To be a Data Scientist.";
+            MY_FAV_QUOTE = "Our greatest glory is not in never falling, but in rising every time we fall."
 
-    MY_DREAM = "To be a Data Scientist.";
-    MY_FAV_QUOTE = "Our greatest glory is not in never falling, but in rising every time we fall."
 
+        }
+    
     def GetCurrentStatus(self)
     {
         return 
