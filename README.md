@@ -25,8 +25,6 @@ class About(Me):
         {
             MY_DREAM = "To be a Data Scientist.";
             MY_FAV_QUOTE = "Our greatest glory is not in never falling, but in rising every time we fall."
-
-
         }
     
     def GetCurrentStatus(self)
@@ -48,7 +46,6 @@ class About(Me):
             "Windows", "Ubuntu","Github Action"
         };
     }
-
 }
 ```
  ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
