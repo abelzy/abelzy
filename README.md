@@ -42,7 +42,7 @@ class About(Me):
         return 
         {
             "Python", "Data Science", "Machine Learning", "Computer Vison", "Data Analysis",
-            "Data Visualization","Azure Devops", "HTML","JavaScript", "CSS","MongoDB", "MySQL", "Git Bash"
+            "Data Visualization","Azure Devops", "HTML","JavaScript", "CSS","Android App","MongoDB", "MySQL", "Git Bash"
             "Windows", "Ubuntu","Github Action"
         };
     }
