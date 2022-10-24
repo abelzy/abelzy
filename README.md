@@ -51,7 +51,7 @@ class About(Me):
  ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
  
  
-
+<!--
 ## 📈 Github Activity Graph
 
 <div align="center">
@@ -62,7 +62,7 @@ class About(Me):
   <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=abelzy&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
 
 </div>
-
+-->
 
 
 ## 🏆 Github Profile Trophy
